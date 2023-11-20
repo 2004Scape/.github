@@ -14,3 +14,16 @@ This project aims to replicate an authentic RuneScape experience from May 2004. 
 It won't ever profit off your trademarks. Without this project, this version of the game only lives in our memories. Screenshots and videos are scarce, and the original data is lost to time. This is no easy task.
 
 *To players*: So happy to have you interested! RuneScape 2 launched on March 29, 2004. We have no copies of that revision, but we do have some client caches from May 2004. This project emulates *May 18, 2004*, which was live until June 1 of that year. It has Treasure Trails and Big Chompy Bird Hunting. The next revision after this added Elemental Workshop I.
+
+## Credits
+
+Thanks to all the current contributors, every PR you submit gets us closer and closer to feature completeness.
+
+Thanks to these indirect or external contributors
+- Kris: for all your help theorycrafting and testing, and to his sources as well for teaching him
+- Walied: for your work on understanding the client assets (worked on understanding cache formats)
+- Dane: for your work on understanding the client (worked on client refactors)
+- TheSuddenSilent: for your help gathering period-accurate data through hours and hours of your time (does not use git)
+
+If anyone is not listed here, whether that's intentional to remain anonymous or an oversight, thank you for your help.  
+This type of project has been a long time coming and I hope to see the trend continue.
