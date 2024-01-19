@@ -27,3 +27,5 @@ Thanks to these indirect or external contributors
 
 If anyone is not listed here, whether that's intentional to remain anonymous or an oversight, thank you for your help.  
 This type of project has been a long time coming and I hope to see the trend continue.
+
+![292604457-9241a03b-5a62-41f5-bffe-5c5e1fc3a28c](https://github.com/2004scape/.github/assets/5841704/074603b5-a417-4ea1-a055-06a5bc050c6b)
