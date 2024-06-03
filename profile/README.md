@@ -2,7 +2,7 @@
 
 <h1>Lost City - 2004Scape</h1>
 
-[Website](https://2004scape.org) | [Discord](https://discord.2004scape.org) | [Rune-Server](https://www.rune-server.ee/runescape-development/rs2-server/projects/701698-lost-city-225-emulation.html) | [Getting Started](#getting-started)
+[Website](https://2004scape.org) | [Discord](https://discord.2004scape.org) | [Rune-Server](https://www.rune-server.ee/runescape-development/rs2-server/projects/701698-lost-city-225-emulation.html)
 
 **status: alpha, in-development**  
 Contributors are welcome to help out!
